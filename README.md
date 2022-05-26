@@ -1,3 +1,3 @@
 # animated-responsive-navbar
 
-![image info](https://github.com/fulutas/vue-timeline-component/blob/main/src/assets/Screenshot_1.png)
+![image info](https://github.com/fulutas/animated-responsive-navbar/blob/main/images/screen.gif)
